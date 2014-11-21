@@ -1,0 +1,14 @@
+# PCTeX Project File, Version 1.1
+	name: sig-alternate
+	texformat: LATEX
+sig-alternate.tex
+	wndpos: 3 -1 -1 -4 -30 0 0 1003 474
+	zorder: 0
+	edit: 2261
+sig-alternate.cls
+fly.eps
+flies.eps
+rosette.ps
+sig-alternate.aux
+sig-alternate.log
+sig-alternate.DVI
